@@ -96,7 +96,7 @@ Berisi informasi tentang referensi kondisi perekonomian klien saat kampanye berl
 - Integrated Development Environment (IDE) ➡️ Visual Studio Code
 - Distributed Version Control System ➡️ Git 
 - Bahasa Pemrograman ➡️ Python 
-- Python Library ➡️ ipykernel, pandas, numpy)
+- Python Library ➡️ ipykernel, pandas, numpy
 - Operating System ➡️ Linux
 
 ---
